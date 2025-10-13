@@ -1,4 +1,4 @@
-## Hi I'm Ashinshani !  👋
+
 
 <h1 align="center">Hi 👋, I'm Ashinshani Bandara</h1>
 <h3 align="center">A passionate ML and AI Engineer and Data Science from Sri Lanka</h3>
