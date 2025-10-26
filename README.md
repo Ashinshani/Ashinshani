@@ -56,7 +56,7 @@ I’m an undergraduate Data Science student at SLIIT with a deep passion for Mac
 - 📫 How to reach me **hirunibandara13@gmail.com**
 <hr>
 <h3 align="left"><I>⚡Inspirational Fact</I></h3>
-<h4>“From self-learning to self-building — every project starts with curiosity.”</h4>
+<h4>“From self-learning to self-building — every project starts with curiosity. 🐞”</h4>
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" align="center" width="1000">
 <hr>
 
