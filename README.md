@@ -84,13 +84,13 @@ I’m an undergraduate Data Science student at SLIIT with a deep passion for Mac
 <br/>  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashinshani&show_icons=true&locale=en&layout=compact" alt="ashinshani" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashinshani&show_icons=true&locale=en" alt="ashinshani" /></p>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ashinshani&" alt="ashinshani" /></p>
-<br>
+
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
     alt="example" />
 </p>
-
+<hr>
+<p align = "center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashinshani&" alt="ashinshani" /></p>
 <hr>
 <div align="center">
   :heart_eyes: Thanks for watching my profile! Have a nice day! :wink: <br/>
