@@ -45,13 +45,13 @@
 
 I’m an undergraduate Data Science student at SLIIT with a deep passion for Machine Learning and AI Engineering. Skilled in Python, Java, HTML, cloud computing and ML concept, I enjoy turning ideas into impactful, creative, and productive projects.I love to learn and build something new, productive, innovative and creative.
 
-- 🔭 I’m currently working on **Spelling and grammer correction app**
+- 🔭 I’m currently working on **E commerce sales Dashboard**
 
-- 🌱 I’m currently learning **Large Language Models**
+- 🌱 I’m currently learning **Agentic AI**
 
 - 👯 I’m looking to collaborate on **real world projects**
 
-- 💬 Ask me about **NLP or Regression**
+- 💬 Ask me about **AI or Agentic AI**
 
 - 📫 How to reach me **hirunibandara13@gmail.com**
 <hr>
