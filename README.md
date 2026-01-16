@@ -94,5 +94,5 @@ I’m an undergraduate Data Science student at SLIIT with a deep passion for Mac
 <hr>
 <div align="center">
   :heart_eyes: Thanks for watching my profile! Have a nice day! :wink: <br/>
-  &copy; 2025 Ashinshani Bandara
+  &copy; 2026 Ashinshani Bandara
 </div>
